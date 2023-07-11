@@ -1,0 +1,16 @@
+class Relational
+{
+public static void main(String[] args)
+{
+int a=10;
+int b=5;
+int c=15;
+int d=20;
+System.out.println("Equal result:"+(a==b));
+System.out.println("Not Equal result:"+(d!=c));
+System.out.println("Greater than result:"+(b>c));
+System.out.println("Less than result:"+(d<a));
+System.out.println("Greater than equal to:"+(b>=c));
+System.out.println("less than equal to:"+(a<=c));
+}
+}
